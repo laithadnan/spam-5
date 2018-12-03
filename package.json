@@ -1,0 +1,15 @@
+{
+  "name": "wes.js",
+  "version": "2.1.0",
+  "description": "-- AWESOMENESS --",
+  "main": "wes.js",
+  "scripts": {
+    "start": "node wes.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "engines": {
+    "node": "8.4.0"
+  }
+}
